@@ -1,0 +1,2 @@
+manim==0.18.1
+# Para renderização de fórmulas matemáticas, instale também o LaTeX (MiKTeX ou TeX Live)
