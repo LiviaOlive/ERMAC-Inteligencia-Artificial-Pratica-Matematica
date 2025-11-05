@@ -1,7 +1,7 @@
 # Animações Matemáticas com Manim - ERMAC 2024
 ![STATUS](https://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 <p>
-Projeto desenvolvido durante o mini curso **"Inteligência Artificial na Prática Docente de Matemática: Ferramentas, Exemplos e Criação Guiada de Materiais"** no ERMAC (Encontro Regional de Matemática Aplicada e Computacional) na UFCA.
+Projeto desenvolvido durante o mini curso "Inteligência Artificial na Prática Docente de Matemática: Ferramentas, Exemplos e Criação Guiada de Materiais" no ERMAC (Encontro Regional de Matemática Aplicada e Computacional) na UFCA.
 
 ## 📋 Sobre o Projeto
 
