@@ -73,7 +73,7 @@ ERMAC/
 
 ## 👥 Autor
 
-Desenvolvido durante o ERMAC 2024 - UFCA
+Desenvolvido durante o ERMAC 2025 - UFCA
 
 ---
 
