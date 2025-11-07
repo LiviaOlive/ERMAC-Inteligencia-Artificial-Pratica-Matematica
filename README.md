@@ -25,7 +25,7 @@ Este projeto demonstra como criar animações matemáticas interativas usando a 
 
 ```bash
 # Clone ou baixe o projeto
-cd ERMAC
+cd -nome da pasta-
 
 # Instale o Manim
 pip install manim
