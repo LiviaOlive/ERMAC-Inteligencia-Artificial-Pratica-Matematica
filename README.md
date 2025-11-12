@@ -65,6 +65,7 @@ ERMAC/
 - **Manim**: Biblioteca para animações matemáticas
 - **Python**: Linguagem de programação
 - **LaTeX**: Sistema de composição tipográfica para fórmulas
+- **Gemini**: IA para auxílio na criação do código durante o minicurso
 
 ## 📚 Recursos Adicionais
 
